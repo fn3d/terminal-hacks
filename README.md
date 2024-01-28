@@ -1,5 +1,5 @@
 # terminal-hacks
-A collection of Terminal tricks to support my Debian transition
+A collection of Terminal tricks continuously updated to support my Debian transition.
 
 **Search for directories with a particular string:**  
 > find . type -d | grep STRING
