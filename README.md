@@ -65,5 +65,8 @@ Unite using all the files generated:
 In the Home directory:  
 > nano .config  
 Change the folder name as per your linking
+>
+> **To add, remove, or update menu entries using a GUI**  
+> sudo app install alacarte
 
 &nbsp;
