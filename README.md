@@ -69,4 +69,7 @@ Change the folder name as per your linking
 **To add, remove, or update menu entries using a GUI**  
 > sudo app install alacarte
 
+**To run the previous command in the terminal with sudo**
+> sudo !!
+
 &nbsp;
