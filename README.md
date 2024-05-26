@@ -72,4 +72,11 @@ Change the folder name as per your linking
 **To run the previous command in the terminal with sudo**
 > sudo !!
 
+**Installing Elmer FEM**
+
+> sudo apt-add-repository ppa:elmer-csc-ubuntu/elmer-csc-ppa
+> sudo apt-get update
+> sudo apt-get install elmerfem-csc-eg
+> ElmerGUI
+
 &nbsp;
