@@ -79,4 +79,8 @@ Change the folder name as per your linking
 > sudo apt-get install elmerfem-csc-eg
 > ElmerGUI
 
+**Installing .deb package**
+
+> sudo dpkg -i PACKAGE_NAME
+
 &nbsp;
