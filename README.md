@@ -85,8 +85,8 @@ Change the folder name as per your linking
 
 **Realtime memory usage and clearing up memory**
 Credits: https://askubuntu.com/a/1280347/1756255
-> watch -n 1 free -m
-> watch -n 1 cat /proc/meminfo
-> sudo sync && echo 3 | sudo tee /proc/sys/vm/drop_caches***
+> watch -n 1 free -m  
+> watch -n 1 cat /proc/meminfo  
+> sudo sync && echo 3 | sudo tee /proc/sys/vm/drop_caches***  
 
 
