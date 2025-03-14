@@ -89,4 +89,7 @@ Credits: https://askubuntu.com/a/1280347/1756255
 > watch -n 1 cat /proc/meminfo  
 > sudo sync && echo 3 | sudo tee /proc/sys/vm/drop_caches***  
 
-
+**Set to high performance mode**
+> for cpu in /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor; do
+> echo performance | sudo tee "$cpu"
+> done
